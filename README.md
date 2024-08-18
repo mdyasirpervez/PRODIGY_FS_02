@@ -6,7 +6,7 @@ Employee Management System
 
 ## Project Overview
 
-The **Employee Management System** is a web-based application designed to streamline the management of employee records. It allows administrators to perform essential CRUD operations—Create, Read, Update, and Delete—on employee data. The system is built with security in mind, ensuring that sensitive employee information is protected through robust authentication and validation mechanisms. This solution is ideal for organizations seeking an efficient way to maintain and manage their employee database.
+The **Employee Management System** is a Full stack web-based application designed to streamline the management of employee records. It allows administrators to perform essential CRUD operations—Create, Read, Update, and Delete—on employee data. The system is built with security in mind, ensuring that sensitive employee information is protected through robust authentication and validation mechanisms. This solution is ideal for organizations seeking an efficient way to maintain and manage their employee database.
 
 ## Key Features
 
